@@ -1,0 +1,6 @@
+{
+  "name": "TerraLoka - Eco-Friendly Travel, Green Transport & Conscious Holidays",
+  "description": "Traveloka-inspired sustainable travel platform featuring low-carbon high-speed rail, electric ferries, certified eco-stays, and budget & preference-based holiday planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
